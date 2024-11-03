@@ -33,7 +33,7 @@ The HR Analytics Dashboard is an interactive dashboard built using Power BI, des
 5. **Explore the dashboard** and customize visuals as needed. <br>
 
 ## 📈 Usage <br>
-- **Log in** to the dashboard using your credentials (if applicable). <br>
+- **Log in** :- to the dashboard using your credentials (if applicable). <br>
 - **Navigate** through various sections to analyze different HR metrics. <br>
 - Use **filters** and **slicers** to customize your data view. <br>
 - **Export reports** as needed for presentations or meetings. <br>
