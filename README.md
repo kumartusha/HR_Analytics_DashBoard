@@ -20,7 +20,7 @@ The HR Analytics Dashboard is an interactive dashboard built using Power BI, des
 
 2. **Clone the repository (if applicable):** <br>
 
-   <code>git clone https://github.com/yourusername/hr-analytics-dashboard.git</code>
+   <code>git clone https://github.com/kumartusha/hr-analytics-dashboard.git</code>
   
 
 3. **Open Power BI Desktop** and load the dataset: <br>
